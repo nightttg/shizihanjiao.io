@@ -1,3 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-CN'
+title = '识字汉教'
+
 [module]
   [module.hugoVersion]
     min = "0.112.4"
