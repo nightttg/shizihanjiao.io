@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-cn'
 title = '识字汉教'
-theme = "hugo-theme-learn"
 
 [params]
   editURL = "https://github.com/KIOSHIROI/shizihanjiao.io"

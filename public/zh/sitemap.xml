@@ -4,15 +4,6 @@
     <loc>http://localhost:1313/zh/%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C-%E4%BA%BA%E6%95%99%E7%89%88/%E7%AC%AC11%E8%AF%BE-%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E5%B0%8F%E8%99%AB%E5%AD%90/1%E5%B1%81/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/zh/%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C-%E4%BA%BA%E6%95%99%E7%89%88/%E7%AC%AC11%E8%AF%BE-%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E5%B0%8F%E8%99%AB%E5%AD%90/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh/%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C-%E4%BA%BA%E6%95%99%E7%89%88/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh/%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C-%E4%BA%BA%E6%95%99%E7%89%88/%E7%AC%AC%E4%B8%80%E8%AF%BE-%E7%A7%8B%E5%A4%A9/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/index.html</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/zh/%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C-%E4%BA%BA%E6%95%99%E7%89%88/%E7%AC%AC11%E8%AF%BE-%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E5%B0%8F%E8%99%AB%E5%AD%90/2%E8%82%A1/index.html</loc>
   </url>
   <url>
@@ -74,5 +65,11 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:1313/zh/index.html" />
     <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:1313/zh/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/index.html" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh/%E8%AF%AD%E6%96%87%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C-%E4%BA%BA%E6%95%99%E7%89%88/%E7%AC%AC11%E8%AF%BE-%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E5%B0%8F%E8%99%AB%E5%AD%90/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh/%E8%AF%AD%E6%96%87%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C-%E4%BA%BA%E6%95%99%E7%89%88/index.html</loc>
   </url>
 </urlset>
