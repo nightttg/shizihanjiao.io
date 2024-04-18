@@ -41,7 +41,7 @@ title = '识字汉教'
   titleSeparator = "-"
   
 [outputs]
-home = ["HTML", "RSS"]
+  home = ['html', 'rss', 'search', 'searchpage']
 
 [module]
   [module.hugoVersion]
