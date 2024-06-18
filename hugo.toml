@@ -3,7 +3,7 @@ languageCode = 'zh-cn'
 title = '识字汉教'
 
 [params]
-  editURL = "https://nightttg.github.io/shizihanjiao.io"
+  editURL = "https://nightttg.github.io/shizihanjiao.io/"
 
   author = "hightttg"
 
